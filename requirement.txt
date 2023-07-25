@@ -1,0 +1,10 @@
+The Dependencies needed to be installed: 
+sys
+pandas
+numpy
+matplotlib
+sklearn
+PyQt6
+MultiColumnLabelEncoder
+xgboost
+seaborn
