@@ -2,7 +2,7 @@
 
 # Title: Dementia Prediction 
 
-# https://mygit.th-deg.de/22s-ainb/re-take-as
+## https://mygit.th-deg.de/22s-ainb/re-take-as
 
 # Project Description:
 This project was giving to us to create a descion system using the scikit learn modul and the end goal was to create a GUI interface using PYQ6 library and reading and analysing a chosen data set in our instance was a Dementia dataset inlcuding features such as (CDR, Gender, SES, eTIV, Age) < meaning of each one is defined in the code itself>. Link of dataset : https://www.kaggle.com/datasets/shashwatwork/dementia-prediction-dataset
